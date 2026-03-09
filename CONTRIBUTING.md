@@ -2,6 +2,8 @@
 
 This file contains the helper functions used across the org workflow. Copy the relevant section into your shell config file before getting started.
 
+> **Recommended:** [gh-dash](https://github.com/dlvhdr/gh-dash) provides a terminal dashboard for viewing PRs, issues, and notifications. See [INSTALLATION.md](INSTALLATION.md) for setup instructions.
+
 ---
 
 ## Bash
