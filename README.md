@@ -5,13 +5,13 @@ This repo will contain rules, guidelines, and helper functions for how we manage
 
 ## Contents
 
-- `CONTRIBUTING.md` — Bash and Fish helper functions for issues, milestones, and pull requests
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) — Bash and Fish helper functions for issues, milestones, and pull requests
 
 ---
 
 ## Setup
 
-Copy the functions for your shell from `CONTRIBUTING.md` into your config file:
+Copy the functions for your shell from [`CONTRIBUTING.md`](CONTRIBUTING.md) into your config file:
 
 ```bash
 # Bash
